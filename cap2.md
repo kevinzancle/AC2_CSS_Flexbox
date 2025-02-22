@@ -1,6 +1,6 @@
-###EXEMPLO
+### EXEMPLO
 
-####HTML
+#### HTML
 ```
 <div class = "pai">
   <div class = "filho"></div>
@@ -10,7 +10,7 @@
 
 ```
 
-####CSS
+#### CSS
 ```
 .pai{
   display: flex;
