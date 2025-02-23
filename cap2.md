@@ -36,7 +36,7 @@ A propriedade display flex torna os filhos do container flexíveis e suscetívei
 # Exercícios Do Capítulo
 
 ## 1. Questão Dissertativa  
-Explique como funciona o conceito de pai e filho no CSS Flexbox
+Explique como funciona o conceito de pai e filho no CSS Flexbox.
 
 ## 2. Questão de Múltipla Escolha  
 O que acontece quando aplicamos `display: flex` a um elemento?  
@@ -51,4 +51,3 @@ Quando aplicamos `display: flex` a um elemento, todas as suas regras CSS anterio
 
 ## 4. Atividade Prática  
 Copie o exemplo do capítulo e teste o flex direction row e collumn.
-`
