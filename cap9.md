@@ -13,9 +13,9 @@ O flexbox é útil para aplicações web que precisam ser responsivas em diversa
 
 ## 9.3 Dicas para otimizar performance e compatibilidade entre navegadores
 
-1. Testar a aplicação web em diferentes navegadores
-2. Utilizar o dev tools
-3. Não utilizar espaçamento em px através de margin, utilizar justify content
+* Testar a aplicação web em diferentes navegadores
+* Utilizar o dev tools
+* Não utilizar espaçamento em px através de margin, utilizar justify content
 
 ## 9.4 Considerações finais e próximos passos no estudo de CSS
 
