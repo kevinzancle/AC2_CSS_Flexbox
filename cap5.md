@@ -6,7 +6,7 @@ Para criar um layout de coluna responsivo, é necessário criar um div pai e seu
 
 HTML:
 ```
-    <div class="conta">
+    <div class="container">
         <div class="filho1">iner</div>
         <div class="filho1"></div>
         <div class="filho1"></div>
