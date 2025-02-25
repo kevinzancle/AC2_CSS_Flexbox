@@ -10,6 +10,8 @@ Tem a função de organizar elementos em uma página quando o seu tamanho final 
 
 O flexbox possui o conceito de hierarquia entre pai e filho. Atributos aplicados ao container pai afetam apenas seus filhos.
 
+![Descrição da imagem](https://css-tricks.com/wp-content/uploads/2018/10/02-items.svg)
+
 ## 2.3 Propriedade \`display: flex\` e seus efeitos
 
 A propriedade display flex torna os filhos do container flexíveis e suscetíveis a atributos do flexbox.  
