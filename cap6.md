@@ -19,3 +19,5 @@ O uso de flexbox permite que  layout se adapte automaticamente ao espaço dispon
 ## 6.5 Testando responsividade com ferramentas do navegador
 
 É interessante utilizar o dev tools do navegador  para testar responsividade, uma vez que é possível simular resoluções.
+
+[Capítulo 7](https://github.com/kevinzancle/AC2_CSS_Flexbox/edit/main/cap7.md)
