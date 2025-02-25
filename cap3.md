@@ -51,3 +51,5 @@ Ele controla o alinhamento de itens no eixo Y, sendo utilizado para organizar os
 ## 3.6 align-content – Alinhamento em múltiplas linhas
 
 A propriedade define a distribuição de espaço entre e em torno de itens de conteúdo ao longo de um eixo de cruzamento de flexbox. É a junção do justify-content e do align-items
+
+![Descrição da imagem]([https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg](https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg))
