@@ -4,7 +4,7 @@
 
 Tem a função de organizar elementos em uma página quando o seu tamanho final é desconhecido ou quando possui um conteúdo dinâmico. 
 
-![Descrição da imagem](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg){ width=30 height=20 }
+![Descrição da imagem](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
 
 ## 2.2 Elemento Pai (Flex Container) vs. Elementos Filhos (Flex Items)
 
