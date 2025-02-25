@@ -4,6 +4,8 @@
 
 Tem a função de organizar elementos em uma página quando o seu tamanho final é desconhecido ou quando possui um conteúdo dinâmico. 
 
+![Legenda](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
+
 ## 2.2 Elemento Pai (Flex Container) vs. Elementos Filhos (Flex Items)
 
 O flexbox possui o conceito de hierarquia entre pai e filho. Atributos aplicados ao container pai afetam apenas seus filhos.
