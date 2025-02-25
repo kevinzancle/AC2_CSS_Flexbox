@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+figure img{
+    width: 400px;
+    height: 300px;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
