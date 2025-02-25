@@ -55,3 +55,5 @@ Quando aplicamos `display: flex` a um elemento, todas as suas regras CSS anterio
 
 ## 4. Atividade Prática  
 Copie o exemplo do capítulo e teste o flex direction row e collumn.
+
+[Capítulo 3](https://github.com/kevinzancle/AC2_CSS_Flexbox/edit/main/cap3.md)
