@@ -1,6 +1,6 @@
-# 3 Propriedades do Contêiner Flexível
+# 3 Propriedades do Contêiner Flexível :books:
 
-## 3.1 flex-direction – Direção dos elementos
+## 3.1 flex-direction – Direção dos elementos :bulb:
 
 O flex direction altera a direção dos elementos como o dev quiser. Pode-se organizar os itens em colunas, linhas, inverter os itens e etc.
 
@@ -11,7 +11,7 @@ O flex direction altera a direção dos elementos como o dev quiser. Pode-se org
 | flex-direction: collumn; | Organiza os itens de maneira colunar |
 | flex-direction: collumn-reverse; | Organiza os itens de maneira colunar reversa |
 
-## 3.2 flex-wrap – Quebra de linha dos itens
+## 3.2 flex-wrap – Quebra de linha dos itens :memo:
 
 Define se os itens flexíveis são forçados a ficarem na mesma linha ou se podem ser quebrados em várias linhas. Se o argumento for válido, ele define a direção em que as linhas são empilhadas.
 
@@ -21,11 +21,11 @@ Define se os itens flexíveis são forçados a ficarem na mesma linha ou se pode
 | flex: wrap; | Itens podem quebrar linha se não houver mais espaço |
 | flex: wrap reverse; | Itens quebram a linha para cima (oposto do wrap) |
 
-## 3.3 flex-flow – Atalho para flex-direction e flex-wrap
+## 3.3 flex-flow – Atalho para flex-direction e flex-wrap :hammer:
 
 O flex-flow é a junção do flex-direction e do flex-wrap, onde as duas propriedades podem ser definidas em apenas uma linha, juntamente.
 
-## 3.4 justify-content – Alinhamento horizontal dos itens
+## 3.4 justify-content – Alinhamento horizontal dos itens :mag_right:
 
 A propriedade define como o navegador distribui o espaço entre e em torno de itens de conteúdo ao longo do eixo X, sendo geralmente utilizado para alinhar itens horizontalmente.
 
@@ -37,7 +37,7 @@ A propriedade define como o navegador distribui o espaço entre e em torno de it
 | justify-content: space-around; | Espaça igualmente os elementos com metade do espaçamento interno na parte externa |
 | justify-content: space-evenly; | Espaça igualmente internamente e externamente |
 
-## 3.5 align-items – Alinhamento vertical dos itens
+## 3.5 align-items – Alinhamento vertical dos itens :dart:
 
 Ele controla o alinhamento de itens no eixo Y, sendo utilizado para organizar os itens da maneira que for necessário.
 
@@ -48,7 +48,7 @@ Ele controla o alinhamento de itens no eixo Y, sendo utilizado para organizar os
 | align-items: start; | Os itens são embalados um para o outro em direção à borda inicial. |
 | align-items: end; | Os itens são embalados um para o outro em direção à borda final. |
 
-## 3.6 align-content – Alinhamento em múltiplas linhas
+## 3.6 align-content – Alinhamento em múltiplas linhas :computer:
 
 A propriedade define a distribuição de espaço entre e em torno de itens de conteúdo ao longo de um eixo de cruzamento de flexbox. É a junção do justify-content e do align-items
 

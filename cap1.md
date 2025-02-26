@@ -1,14 +1,14 @@
-# 1\. Introdução ao CSS Flexbox
+# 1\. Introdução ao CSS Flexbox :books:
 
-## 1.1 O que é Flexbox?
+## 1.1 O que é Flexbox? :bulb:
 
 O Flexible Box Module, comumente referido como flexbox, foi concebido tanto como um modelo de layout unidimensional quanto como um método que permite a disposição espacial dos elementos em uma interface, além de oferecer recursos avançados de alinhamento. Este texto apresenta um sumário das funcionalidades primordiais do flexbox, que serão aprofundadas nos capítulos seguintes.
 
-## 1.2 Quando usar Flexbox?
+## 1.2 Quando usar Flexbox? :memo:
 
 O flexbox é utilizado para organizar os itens em linhas e colunas. Pode-se seguir o raciocínio matemático de X e Y, ou eixo das abscissas e eixo das ordenadas. Também pode ser usado para criar layouts flexíveis.
 
-## 1.3 Diferença entre Flexbox e outras técnicas de layout (Float, Grid, Inline-Block)
+## 1.3 Diferença entre Flexbox e outras técnicas de layout (Float, Grid, Inline-Block) :hammer:
 
 O flexbox possui diversos pontos positivos, estão entre eles:
 
@@ -17,7 +17,7 @@ O flexbox possui diversos pontos positivos, estão entre eles:
 * Fácil responsividade  
 * Ordem flexível
 
-## Exercícios do Capítulo:
+## Exercícios do Capítulo: :mag_right:
 
 ### 1 Questão Dissertativa  
 Explique o que é Flexbox e quais são seus principais benefícios em relação a outras técnicas de layout.

@@ -1,6 +1,6 @@
-# 5. Técnicas e Padrões de Layout com Flexbox
+# 5. Técnicas e Padrões de Layout com Flexbox :books:
 
-## 5.1 Criando um layout de coluna responsivo
+## 5.1 Criando um layout de coluna responsivo :bulb:
 
 Para criar um layout de coluna responsivo, é necessário criar um div pai e seus filhos. Onde deve-se utilizar display flex, exemplo de código abaixo:
 
@@ -23,7 +23,7 @@ CSS:
     }
 ```
 
-## 5.2 Criando um layout de linha responsivo
+## 5.2 Criando um layout de linha responsivo :memo:
 
 Para criar um layout de linha responsivo, é necessário criar um div pai e seus filhos. Onde deve-se utilizar display flex, exemplo de código abaixo:
 
@@ -46,7 +46,7 @@ CSS:
     }
 ```
 
-## 5.3 Centralizando elementos com Flexbox
+## 5.3 Centralizando elementos com Flexbox :hammer:
 
 Para centralizar uma div usando flexbox pode-se seguir o seguinte exemplo de código:
 
@@ -72,7 +72,7 @@ CSS:
     }
 ```
 
-## 5.4 Criando um menu de navegação flexível
+## 5.4 Criando um menu de navegação flexível :mag_right:
 
 Para criar uma nav flexível pode \-se seguir o seguinte exemplo de código:
 
@@ -101,7 +101,7 @@ CSS:
     }
 ```
 
-## 5.5 Criando um grid de cards com Flexbox
+## 5.5 Criando um grid de cards com Flexbox :dart:
 
 Para criar grid de cards com flexbox pode-se seguir o seguinte exemplo de código:
 

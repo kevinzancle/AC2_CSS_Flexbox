@@ -1,18 +1,18 @@
-# 2\. Conceitos Fundamentais
+# 2\. Conceitos Fundamentais :books:
 
-## 2.1 O Modelo de Caixa Flexível
+## 2.1 O Modelo de Caixa Flexível :bulb:
 
 Tem a função de organizar elementos em uma página quando o seu tamanho final é desconhecido ou quando possui um conteúdo dinâmico. 
 
 ![Descrição da imagem](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
 
-## 2.2 Elemento Pai (Flex Container) vs. Elementos Filhos (Flex Items)
+## 2.2 Elemento Pai (Flex Container) vs. Elementos Filhos (Flex Items) :memo:
 
 O flexbox possui o conceito de hierarquia entre pai e filho. Atributos aplicados ao container pai afetam apenas seus filhos.
 
 ![Descrição da imagem](https://css-tricks.com/wp-content/uploads/2018/10/02-items.svg)
 
-## 2.3 Propriedade \`display: flex\` e seus efeitos
+## 2.3 Propriedade \`display: flex\` e seus efeitos :hammer:
 
 A propriedade display flex torna os filhos do container flexíveis e suscetíveis a atributos do flexbox.  
 
@@ -37,7 +37,7 @@ A propriedade display flex torna os filhos do container flexíveis e suscetívei
 
 ```
 
-# Exercícios Do Capítulo
+# Exercícios Do Capítulo :mag_right:
 
 ## 1. Questão Dissertativa  
 Explique como funciona o conceito de pai e filho no CSS Flexbox.
