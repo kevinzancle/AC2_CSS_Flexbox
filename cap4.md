@@ -21,6 +21,6 @@ A propriedade flex engloba a flex-grow, flex-shrink e flex-basis
 
 ## 4.6 align-self – Alinhamento individual dos itens :dart:
 
-**Alinha** os itens do container, e substitui o align-items. Se a margem estiver definida como auto, ele é ignorado.
+**Alinha** um item específico do container , e substitui o align-items. Se a margem estiver definida como auto, ele é ignorado.
 
 [Capítulo 5](https://github.com/kevinzancle/AC2_CSS_Flexbox/blob/main/cap5.md)
