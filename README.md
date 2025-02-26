@@ -39,3 +39,10 @@ Este repositório está organizado em tópicos bem definidos, que cobrem tudo o 
 ## Exemplos Práticos 🖼️
 
 Em cada seção, você encontrará exemplos práticos de código que demonstram como aplicar as propriedades do Flexbox. Estes exemplos podem ser copiados e testados diretamente em seu próprio projeto para entender como cada propriedade funciona.
+
+## Referências 🔍
+
+[CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[W3 Schools](https://www.w3schools.com/css/css3_flexbox.asp)
+[MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+[Dev Media](https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532)
