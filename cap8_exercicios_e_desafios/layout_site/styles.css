@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    list-style: none;
+}
+
+main{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin-top: -90px;
+}
+
+.logo img{
+    width: 300px;
+}
+
+input{
+    width: 600px;
+    height: 50px;
+    border-radius: 45px;
+    border: none
+}
+.box{
+    margin-top: 20px;
+}
+.box ul{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+
+.box ul li a{
+    color: black;
+    font-size: 0.95em;
+}
+.lens-mic img{
+    width: 30px;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 0px 10px;
+}
+
+footer{
+    background-color: #ccc;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 1200px;
+    padding: 10px 0px;
+}
+
+.part1{
+    display: flex;
+    gap: 30px;
+}
+.part2{
+    display: flex;
+    gap: 30px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding-top: 10PX;
+}
+header ul{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+header figure img{
+    border-radius: 50%;
+    margin-right: 20PX;
+}
+header ul li a{
+    color: black;
+}
