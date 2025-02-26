@@ -36,4 +36,4 @@ Flexbox permite organizar elementos apenas em colunas, sem suporte para organiza
 ### 4 Atividade Prática  
 Crie um pequeno layout utilizando Flexbox onde existam três caixas dispostas em linha, localizadas no final do eixo X. (Utilize CSS)
 
-[Capítulo 2](https://github.com/kevinzancle/AC2_CSS_Flexbox/edit/main/cap2.md)
+[Capítulo 2](https://github.com/kevinzancle/AC2_CSS_Flexbox/blob/main/cap2.md)

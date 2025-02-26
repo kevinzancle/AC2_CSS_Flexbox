@@ -137,3 +137,5 @@ CSS:
     }
 
 ```
+
+[Capítulo 6](https://github.com/kevinzancle/AC2_CSS_Flexbox/blob/main/cap6.md)

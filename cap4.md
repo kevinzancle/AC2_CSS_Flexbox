@@ -23,4 +23,4 @@ A propriedade flex engloba a flex-grow, flex-shrink e flex-basis
 
 **Alinha** os itens do container, e substitui o align-items. Se a margem estiver definida como auto, ele é ignorado.
 
-[Capítulo 5](https://github.com/kevinzancle/AC2_CSS_Flexbox/edit/main/cap5.md)
+[Capítulo 5](https://github.com/kevinzancle/AC2_CSS_Flexbox/blob/main/cap5.md)

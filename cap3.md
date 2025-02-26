@@ -54,4 +54,4 @@ A propriedade define a distribuição de espaço entre e em torno de itens de co
 
 ![Descrição da imagem](https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg)
 
-[Capítulo 4](https://github.com/kevinzancle/AC2_CSS_Flexbox/edit/main/cap4.md)
+[Capítulo 4](https://github.com/kevinzancle/AC2_CSS_Flexbox/blob/main/cap4.md)

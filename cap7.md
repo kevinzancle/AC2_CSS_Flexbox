@@ -15,3 +15,5 @@
 
 ## 7.4 Conversão de layouts Flexbox para Grid e vice-versa
 
+
+[Capítulo 8](https://github.com/kevinzancle/AC2_CSS_Flexbox/tree/main/cap8_exercicios_e_desafios)
