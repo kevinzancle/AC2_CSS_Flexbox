@@ -18,3 +18,5 @@ Esses desafios vão ajudá-lo a entender como o Flexbox pode ser usado em situa�
 - **Se precisar de ajuda, consulte o material anterior**: Se ficar preso em algum desafio, volte para as seções anteriores do repositório e revise os conceitos.
 
 Boa sorte e divirta-se com os desafios! 💪🎉
+
+[Capítulo 9](https://github.com/kevinzancle/AC2_CSS_Flexbox/blob/main/cap9.md)
